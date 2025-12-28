@@ -1,4 +1,4 @@
-## 1.0.1
+## 1.0.2
 
 - Initial version.
 - complex math extention language dart

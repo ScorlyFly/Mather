@@ -1,6 +1,6 @@
 name: mather
 description: library extention for language dart an base type (List)
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/ScorlyFly/Mather
 
 environment:
