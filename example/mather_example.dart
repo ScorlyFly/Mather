@@ -8,4 +8,8 @@ void main() {
 
   // count // col 2
   print(list.count(1));
+
+  // Common sum Warning data should be type int
+  List sum = [1, 2, 7];
+  print(sum.sum()); // 10
 }

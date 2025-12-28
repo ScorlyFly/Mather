@@ -11,7 +11,7 @@ TODO: How starting work in package
 <pre>
 
 List -----------------------------------------------
-    Method: replace, count
+    Method: replace, count, sum
 
     void main() {
         List list = [10, 1, 3, 3, 1, "e"];
@@ -22,6 +22,11 @@ List -----------------------------------------------
 
         // count col 2
         print(list.count(1));
+
+        // Common sum Warning data should be type int
+        List sum = [1, 2, 7];
+        print(sum.sum()); // 10
+
     }
 
 

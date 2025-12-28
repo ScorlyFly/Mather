@@ -14,4 +14,10 @@ extension MatherListReplace on List {
   }
 }
 
+extension MatherListCommonSum on List {
+  int sum() {
+    return reduce((total, element) => total += element);
+  }
+}
+
 /// Checks if you are awesome. Spoiler: you are.
